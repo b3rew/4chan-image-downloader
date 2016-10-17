@@ -1,0 +1,17 @@
+{
+  "name": "4chan-image-downloader",
+  "version": "0.0.1",
+  "description": "4chan image dowloader using api 4chan/4chan-API",
+  "main": "4c.js",
+  "dependencies": {
+    "progress": "^1.1.8",
+    "request": "^2.67.0",
+    "wget-improved": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
